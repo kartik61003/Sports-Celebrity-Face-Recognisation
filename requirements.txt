@@ -1,0 +1,10 @@
+PyWavelets
+opencv-python
+seaborn
+matplotlib
+numpy
+pandas
+scikit-learn
+flask_cors
+flask
+cv2
